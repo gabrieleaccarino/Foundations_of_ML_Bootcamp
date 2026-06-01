@@ -1,2 +1,2 @@
-# Foundations_in_ML_Bootcamp
-Foundations in ML resources for 2nd week LEAP Summer Bootcamp 2026
+# Foundations_of_ML_Bootcamp
+Week 2: Foundations of Machine Learning Resources for LEAP Summer Bootcamp 2026
